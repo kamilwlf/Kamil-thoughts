@@ -12,6 +12,9 @@ import retrofit2.Retrofit;
 
 /**
  * Created by Kamil on 2016-01-13.
+Corrected version, It works properly with the latest retrofit
+retrofit:2.0.0-beta3'
+
  */
 public class ToStringConverterFactory extends Converter.Factory {
     private static final MediaType MEDIA_TYPE = MediaType.parse("text/plain");
