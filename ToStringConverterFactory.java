@@ -12,7 +12,7 @@ import retrofit2.Retrofit;
 
 /**
  * Created by Kamil on 2016-01-13.
-Corrected version, It works properly with the latest retrofit
+Corrected version, It works properly with:
 retrofit:2.0.0-beta3'
 
  */
